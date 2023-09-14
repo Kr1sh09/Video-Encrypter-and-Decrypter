@@ -3,7 +3,7 @@
 
 ![Encryption](https://img.shields.io/badge/Encryption-AES-blue)
 ![Language](https://img.shields.io/badge/Language-Java-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 Encrypt and decrypt your video files securely using the AES (Advanced Encryption Standard) algorithm with this Java-based Video Encrypter and Decrypter. This tool allows you to protect sensitive video content from unauthorized access while providing an easy way to recover the original video when needed.
 
@@ -36,9 +36,6 @@ Encryption: Protect your video files by encrypting them with a secret key to ens
 Decryption: Effortlessly recover the original video file from the encrypted version whenever required.
 
 Contributions to this project are welcome! Whether you want to add new features, fix bugs, or improve documentation, your help is appreciated. Please follow our contribution guidelines to get started.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
 For questions or suggestions, please feel free to reach out to us at email@example.com.
