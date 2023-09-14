@@ -20,7 +20,7 @@ Encrypt and decrypt your video files securely using the AES (Advanced Encryption
 **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/video-encrypter-decrypter.git
+   git clone https://github.com/yourusername/video-encrypter-decrypter.git```
 
 **1)Compile the Java Code:**
   javac VideoEncryption.java
