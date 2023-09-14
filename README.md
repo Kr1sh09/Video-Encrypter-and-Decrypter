@@ -20,26 +20,7 @@ Encrypt and decrypt your video files securely using the AES (Advanced Encryption
 **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/video-encrypter-decrypter.git```
+   git clone https://github.com/yourusername/video-encrypter-decrypter.git
 
-**1)Compile the Java Code:**
-  javac VideoEncryption.java
-**2)Encrypt a Video:**
-  java VideoEncryption encrypt YourSecretKey inputVideo.mp4 encryptedVideo.enc
-**3)Decrypt an Encrypted Video:**
-  java VideoEncryption decrypt YourSecretKey encryptedVideo.enc decryptedVideo.mp4
 
-**Replace YourSecretKey, inputVideo.mp4, encryptedVideo.enc, and decryptedVideo.mp4 with your own values.**
-
-**Usage**
-Encryption: Protect your video files by encrypting them with a secret key to ensure only authorized users can access the content.
-Decryption: Effortlessly recover the original video file from the encrypted version whenever required.
-
-**Contributions to this project are welcome! Whether you want to add new features, fix bugs, or improve documentation, your help is appreciated. Please follow our contribution guidelines to get started.**
-
-**Note: Ensure that you have the Java Cryptography Extension (JCE) libraries set up in your Java environment for proper encryption and decryption.**
-
-Enjoy secure video file handling with Video Encrypter and Decrypter!
-
-You should replace `"yourusername"` with your actual GitHub username and customize the email address and contact information as needed. Also, make sure to provide any additional setup or usage instructions specific to your project, and consider adding a section on how to contribute if you want to encourage collaboration from other developers.
 
